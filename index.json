@@ -1,0 +1,237 @@
+{
+  "title": {
+    "media": {
+      "url": "https://www.tetrate.io/wp-content/uploads/2021/03/matthew-ronder-seid-LdcEZdw5uEo-unsplash.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@matthewronderseid?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Matthew Ronder-Seid</a> on <a href='/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Unsplash</a>"
+    },
+    "text": {
+      "headline": "The Tetrate Chronicles",
+      "text": "<h6>A history of Tetrate and Istio</h6>"
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://www.tetrate.io/wp-content/uploads/2021/03/grpc-launch-v2.png"
+      },
+      "start_date": {
+        "month": "8",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Varun launches gRPC 1.0 as founding product manager",
+        "text": "<p>On 23 August, 2016, Varun Talwar launched gRPC along with the rest of his team. Google had been using a single, general-purpose RPC infrastructure called Stubby to connect the large number of microservices running within and across Google’s data centers for over a decade. Varun's mission: bring it to the rest of the world via open source. In August 2016, gRPC 1.0 was released. It is now used in many organizations outside of Google like Square, Netflix, CISCO, Cockroach Labs and more, to power use cases from microservices to the “last mile” of computing (mobile, web, and Internet of Things).</p><br /><a href='https://grpc.io/blog/ga-announcement/'>Read Blog Announcement</a>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.tetrate.io/wp-content/uploads/2021/03/Talwar-1.jpg"
+      },
+      "start_date": {
+        "day": "27",
+        "month": "5",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Varun Talwar launches Istio 0.1",
+        "text": "<p>Istio was founded from a desire to provide a reliable substrate for microservice development and maintenance, based on the common experiences of IBM, Google and Lyft building and operating massive scale microservices for internal and enterprise customers. As the founding product manager, Varun once again brought this vision to life with the release of Istio 0.1. Building on experiences managing microservices at scale both inside Google and with Google's design partners, Istio made important cloud-native security, connectivity, and observability capabilities available to the whole world. Today it is used by companies ranging from financial institutions like FreddieMac to federal government organisations like the U.S. Department of Defense.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.tetrate.io/wp-content/uploads/2021/03/zackbutcher_headshot-1.png"
+      },
+      "start_date": {
+        "month": "11",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Zack joins the Istio team",
+        "text": "<p>Zack was instrumental in building the Mixer component of Istio, drawing lessons from dogfooding Google's proto-mesh, One Platform. He was able to use the mesh to implement meta-API methods for cross-cutting concerns, reducing the effort to roll out global additions to Google APIs from an organization-breaking six months and dozens of teams down to two engineers and a few weeks. He continues to be a core part of Istio and is a member of the Istio Steering Committee.</p><p>Did you know: Zack wrote the service mesh configuration manual for Google? He has also written a book on Istio <a href='https://www.oreilly.com/library/view/istio-up-and/9781492043775/' target='_blank'>(Istio: Up and Running)</a>, which has been translated into multiple languages. He is also the co-author of two NIST SPs (Special Publications) which are the gold standard for the government the industry for implementing a secure service mesh.</p><br /><a href='https://istio.io/latest/news/releases/0.x/announcing-0.1/'>Read Istio launch blog</a>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.tetrate.io/wp-content/uploads/2021/03/tetrate-old-logo-1.png"
+      },
+      "start_date": {
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Tetrate is born",
+        "text": "<p>JJ and Varun come together to build the next networking breakthrough for applications. Both founders have a history of meeting the challenges of managing application networks in distributed systems, at Twitter and Google respectively. They knew from experience that this was an industry-wide challenge and set out to power the world’s application networks.</p><p>Zack joins Tetrate</p><p>Google becomes first customer</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.youtube.com/watch?v=3xya4swohhg"
+      },
+      "start_date": {
+        "day": "13",
+        "month": "3",
+        "year": "2019"
+      },
+      "text": {
+        "headline": "Series A",
+        "text": "<p>Dell Technologies Capital, Intel Capital and other investors back Varun’s and JJ’s vision and the team’s expertise to build next generation application networking for the enterprise.</p><p>Wu Sheng, the founder of Apache SkyWalking, joins Tetrate</p><p>Customer growth and partnerships</p><br /><a href='https://www.tetrate.io/blog/we-are-launching/'>Read launch blog post</a>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.youtube.com/watch?v=XYxkOonly8k"
+      },
+      "start_date": {
+        "day": "28",
+        "month": "3",
+        "year": "2019"
+      },
+      "text": {
+        "headline": "Service Mesh Day",
+        "text": "<p>Building on the momentum, Tetrate launches the first ever industry conference on service mesh - Service Mesh Day</p><p>Hosted by Tetrate and supported by Google & CNCF, participants joined in for this two-day conference with speakers from Google, CNCF, IBM, Juniper Networks, Yahoo, Capital One among others.</p><br /><a href='https://www.tetrate.io/blog/service-mesh-day-2019-the-first-ever-service-mesh-industry-conference/'>Read the event summary blog post</a>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.tetrate.io/wp-content/uploads/2021/03/getenvoy-launch-v2.png"
+      },
+      "start_date": {
+        "month": "7",
+        "year": "2019"
+      },
+      "text": {
+        "headline": "Open source project GetEnvoy Launched",
+        "text": "<p>Tetrate launches the open source project <a href='https://getenvoy.io/'>GetEnvoy</a> to make it easy to get started with Envoy on any cloud or platform - solving a known problem for Envoy. It continues to be the easiest way of extending an existing Envoy installation using '<a href='https://www.tetrate.io/blog/introducing-getenvoy-extension-toolkit-for-webassembly-based-envoy-extensions/' target='_blank'>GetEnvoy Extensions</a>'.<br /><a href='https://www.getenvoy.io/blog/announcing-the-getenvoy-project/'>Read GetEnvoy launch blog post</a>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.tetrate.io/wp-content/uploads/2021/03/tsb-launch-1.png"
+      },
+      "start_date": {
+        "month": "10",
+        "year": "2019"
+      },
+      "text": {
+        "headline": "TSB Beta",
+        "text": "<p>Tetrate promotes Tetrate Service Bridge, its flagship product, to beta. The move allows organizations to draw on Tetrate's talent and expertise to meet challenges around application security, connectivity, observability and reliability (App SCOR) across heterogeneous environments. Tetrate Service Bridge is still the only comprehensive service mesh management platform for enterprises that provides a unified and consistent way to secure and manage services and traditional workloads across complex, heterogeneous deployment environments.</p><br /><a href='https://www.tetrate.io/tetrate-service-bridge/' target='_blank'>Learn more about Tetrate Service Bridge</a>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.tetrate.io/wp-content/uploads/2021/03/varun-nist-e1615373330158.png"
+      },
+      "start_date": {
+        "month": "12",
+        "year": "2019"
+      },
+      "text": {
+        "headline": "Tetrate & NIST partner to define service mesh security standards",
+        "text": "<p>Tetrate and the National Institute of Standards and Technology (NIST) begin a partnership to create the security standards for service meshes. This collaboration was unique as two entities with different expertise (NIST - security standard experts and Tetrate - the service mesh experts) came together to create the standards for anyone who wanted to implement a service mesh. This collaboration has thus far resulted in:<ul><li>2 NIST SPs</li><li>Next Generation Access Control (NGAC) - First implemented in Tetrate Service Bridge, this is the next generation of authentication and authorization frameworks. NGAC was created by David Ferraiolo of NIST as a better approach to attribute-based access control.</li></ul></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.tetrate.io/wp-content/uploads/2021/03/identity-management-e1615372780536.png"
+      },
+      "start_date": {
+        "month": "1",
+        "year": "2020"
+      },
+      "text": {
+        "headline": "First Tetrate-NIST workshop and conference ",
+        "text": "<p>The theme was “Identity Management & Access Control in Multiclouds” and individuals joined in hordes to attend this in-person conference. We sold out the in-person event quickly and had to open up the event virtually. The virtual event was attended by a further 200 people. The attendance of the event proved how security was a recurring struggle for organisations in multiclouds and validated our focus on security for distributed systems.</p><br /><a href='https://www.nist.gov/news-events/events/2020/01/identity-management-access-control-multiclouds-workshop-and-conference'>Check out the event recording</a>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.tetrate.io/wp-content/uploads/2021/03/24a.png"
+      },
+      "start_date": {
+        "month": 5,
+        "year": "2020"
+      },
+      "text": {
+        "headline": "Zack coauthors microservices security standard with NIST: SP 800-24A",
+        "text": "<p>Co-authored by Ramaswamy Chandramouli (NIST) and Zack Butcher (Tetrate)</p><p><a href='https://csrc.nist.gov/publications/detail/sp/800-204a/final' target='_blank'>SP 800-204a</a> - Offers foundational security best practices for microservices by using the unique capabilities of a service mesh. Notably, it is the primary government-published security standard for microservices deployments. It's 'microservice security, using a mesh', not 'service mesh security for microservices'.</p><br /><a href='https://csrc.nist.gov/publications/detail/sp/800-204a/final'>Read the publication</a>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.youtube.com/watch?v=3_V6JvF0hXw"
+      },
+      "start_date": {
+        "month": 5,
+        "year": "2020"
+      },
+      "text": {
+        "headline": "Celebrating three years of Istio",
+        "text": "<p>Istio turns three</p><p>Tetrate, proud of this important milestone, gathers the creators and maintainers of Istio to create a series of videos where they talk about their journey with Istio and what they hope the project will become. They also give solid advice to people who want to contribute to Istio.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.tetrate.io/wp-content/uploads/2021/03/DevSecOps-and-ZTA-e1615372754449.png"
+      },
+      "start_date": {
+        "month": 1,
+        "year": "2021"
+      },
+      "text": {
+        "headline": "Second annual Tetrate-NIST conference ",
+        "text": "<p>Building on the success of our first conference, the annual conference was back with the topic “DevSecOps and Zero Trust Architecture (ZTA) for Multi-Cloud Environments”. The event was attended by over 1000 people and reinforced our product’s focus on authorization and authentication in a multi tenant and multicloud environment is something organisations need. (Tetrate Service Bridge is the only platform to provide ZTA in a multi cloud and multi tenant environment) </p><br /><a href='https://www.nist.gov/news-events/events/2021/01/devsecops-and-zero-trust-architecture-zta-multi-cloud-environments'>Check out the event recording</a>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.tetrate.io/wp-content/uploads/2021/03/24b.png"
+      },
+      "start_date": {
+        "month": 1,
+        "year": "2021"
+      },
+      "text": {
+        "headline": "Zack coauthors microservices security standard with NIST: SP 800-24B",
+        "text": "<p>Co-authored by Ramaswamy Chandramouli (NIST), Zack Butcher (Tetrate), Aradhna Chetal (TIAA)</p><p><a href='https://csrc.nist.gov/publications/detail/sp/800-204b/draft' target='_blank'>SP 800-204b</a> - This publication describes how the mesh can be used to offload authn/z from apps to the mesh.</p><br /><a href='https://csrc.nist.gov/publications/detail/sp/800-204b/draft'>Read the publication</a>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.tetrate.io/wp-content/uploads/2021/03/getistio-launch-v2.png"
+      },
+      "start_date": {
+        "month": "2",
+        "year": "2021"
+      },
+      "text": {
+        "headline": "GetIstio launched",
+        "text": "<p>Tetrate launches a new open source project offering users the easiest way to install and upgrade Istio. GetIstio provides a vetted, upstream distribution of Istio — a hardened image of Istio with continued support that is simpler to install, manage, and upgrade.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.tetrate.io/wp-content/uploads/2021/03/Series-B-Investors-Tetrate.png"
+      },
+      "start_date": {
+        "month": "3",
+        "year": "2021"
+      },
+      "text": {
+        "headline": "Series B",
+        "text": "<p>Tetrate closes $40 million in a Series B funding round led by <a href='https://sapphireventures.com/' target='_blank'>Sapphire Ventures</a>. Other new investors, <a href='https://www.scalevp.com/' target='_blank'>Scale Venture Partners</a> and <a href='https://nttvc.com/' target='_blank'>NTTVC</a>, and existing investors, <a href='www.delltechcapital.com' target='_blank'>Dell Technologies Capital</a>, <a href='www.intelcapital.com' target='_blank'>Intel Capital</a>, <a href='https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2F8vc.com&esheet=51953871&newsitemid=20190313005213&lan=en-US&anchor=8VC&index=3&md5=7a8ee558de22296c3c975a0b8ca03c5f' target='_blank'>8VC</a>, and <a href='https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fsamsungnext.com&esheet=51953871&newsitemid=20190313005213&lan=en-US&anchor=Samsung+NEXT&index=6&md5=f5bfec71580bb455887d46463ebc80fd' target='_blank'>Samsung NEXT</a>, participated in the round.  We are just getting started!</p><br /><a target='_self' href='#investors'>What our investors have to say about us</a>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.tetrate.io/wp-content/uploads/2021/04/tsb-ga-launch.gif"
+      },
+      "start_date": {
+        "month": "4",
+        "year": "2021"
+      },
+      "text": {
+        "headline": "Tetrate Service Bridge 1.0 launched",
+        "text": "<p>Tetrate is on a mission to take the complexity of application networking and make it simple for application developers and operators. And this day marks an important milestone on our path, the General Availability release of our flagship product, Tetrate Service Bridge.</p><br /><a href='https://www.tetrate.io/blog/tetrate-service-bridge-general-availability/'>Read the launch blog post</a>"
+      }
+    }
+  ]
+}
