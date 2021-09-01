@@ -1,0 +1,241 @@
+{
+    "title": {
+      "media": {
+        "url": "https://www.tetrate.io/wp-content/uploads/2021/03/matthew-ronder-seid-LdcEZdw5uEo-unsplash.jpg",
+        "credit": "由 <a href='https://unsplash.com/@matthewronderseid?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Matthew Ronder-Seid</a> 拍摄，取自 <a href='/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Unsplash</a>"
+      },
+      "text": {
+        "headline": "Tetrate 大事纪",
+        "text": "<h6>Tetrate 和 Istio 的历史</h6>"
+      }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://www.tetrate.io/wp-content/uploads/2021/03/grpc-launch-v2.png"
+        },
+        "start_date": {
+          "month": "8",
+          "year": "2016"
+        },
+        "text": {
+          "headline": "Varun 作为创始产品经理，正式发布 gRPC 1.0",
+          "text": "<p>在 2016 年 8 月 23 日，Varun Talwar 和他的团队正式发布 gRPC。过去起码十年，谷歌一直是以单个通用的 RPC 架构－Stubby 来连接在谷歌数据中心内外所运行的大宗数量微服务。Varun 的使命就是：以开源的方式，将此技术推广到世界。在 2016 年 8 月，gRPC 1.0 释出，现在除了谷歌，还有 Square、Netflix、CISCO、Cockroach Labs 和更多企业都在使用，证明从微服务到计算（手机、网页和物联网） 的〝最后一里路＂上越来越受到认可。</p><br /><a href='https://grpc.io/blog/ga-announcement/'>阅读博客公告</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.tetrate.io/wp-content/uploads/2021/03/Talwar-1.jpg"
+        },
+        "start_date": {
+          "day": "27",
+          "month": "5",
+          "year": "2016"
+        },
+        "text": {
+          "headline": "Varun Talwar 发布 Istio 0.1",
+          "text": "<p>借助 IBM、谷歌和 Lyft 为内部和企业客人建立和运行大型微服务的经验，创立 Istio 的愿景是为微服务发展和维护提供可靠的基石。Varun 作为创始产品经理，在 Istio 0.1 的释出实现了这个愿望，吸收谷歌内和设计伙伴间的大型微服务管理经验，Istio 将云原生安全性、可连接性和可观察性推广到全世界。今天用家已从金融机构到联邦政府，像是房地美到美国国防部。</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.tetrate.io/wp-content/uploads/2021/03/zackbutcher_headshot-1.png"
+        },
+        "start_date": {
+          "month": "11",
+          "year": "2016"
+        },
+        "text": {
+          "headline": "Zack 加入 Istio 团队",
+          "text": "<p>Zack 对建造 Istio 当中的 Mixer 部份功不可没，他总结了在谷歌的原始网格和在 PlatformOne 内测的经验，利用网格来实施元 API，解决跨部门的问题，减少了要将全局添加铺展到 Google APIs 的工夫，将六个月和几支团队降维到两位工程师和几个星期。他仍然是 Istio 的核心部份，也是 Istio 指导委员会的成员。</p><p>你知道吗：Zack 为谷歌编写了服务网格的配置指南，还写了一本有关 Istio 的书 <a href='https://www.oreilly.com/library/view/istio-up-and/9781492043775/' target='_blank'>（〝Istio: Up and Running＂）</a>，它已被翻译成几国语言。他也是两份美国国家标准与技术研究院（NIST）特刊文章的共同作者，为政府和行业实施安全的服务网格定下了标准。</p><br /><a href='https://istio.io/latest/news/releases/0.x/announcing-0.1/'>阅读 Istio 发布博客</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.tetrate.io/wp-content/uploads/2021/03/tetrate-old-logo-1.png"
+        },
+        "start_date": {
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Tetrate 正式诞生",
+          "text": "<p>JJ 和 Varun 携手共创在应用上的联网突破，两位创始人还分别在 Twitter 和 Google 时，都为分布式系统解决过不少有关管理应用网络的挑战。经验告诉他们，这些都是整个行业面临的挑战，于是立志革新全世界的应用网络。</p><p>Zack 加入 Tetrate</p><p>Zack joins Tetrate</p><p>谷歌成为第一位客户</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.youtube.com/watch?v=3xya4swohhg"
+        },
+        "start_date": {
+          "day": "13",
+          "month": "3",
+          "year": "2019"
+        },
+        "text": {
+          "headline": "A 轮",
+          "text": "<p>戴尔科技资本、英特尔资本，以及其他投资者都支持 Varun 和 JJ 的愿景，并坚信团队的专业知识可以打造出跨世代的企业应用联网。</p><p>Apache SkyWalking 的创始人吴晟，加入了 Tetrate</p><p>客户增长与伙伴关系</p><br /><a href='https://www.tetrate.io/blog/we-are-launching/'>阅读发布博客</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.youtube.com/watch?v=XYxkOonly8k"
+        },
+        "start_date": {
+          "day": "28",
+          "month": "3",
+          "year": "2019"
+        },
+        "text": {
+          "headline": "服务网格日",
+          "text": "<p>乘著这股趋势，Tetrate 举办了服务网格行业内的第一场大会－服务网格日</p><p>这场由 Tetrate 举办、谷歌和 CNCF 支持的大会中，参与者可以在两天的大会中，听到来自谷歌、CNCF、IBM、Juniper Networks、雅虎、Capital One 和其他企业的讲者。</p><br /><a href='https://www.tetrate.io/blog/service-mesh-day-2019-the-first-ever-service-mesh-industry-conference/'>阅读活动总结博客</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.tetrate.io/wp-content/uploads/2021/03/getenvoy-launch-v2.png"
+        },
+        "start_date": {
+          "month": "7",
+          "year": "2019"
+        },
+        "text": {
+          "headline": "开源项目 GetEnvoy 正式发布",
+          "text": "<p>Tetrate 正式发布了开源项目 <a href='https://getenvoy.io/'>GetEnvoy</a> t，让任何云端和平台都更容易开始使用 Envoy－解决了 Envoy 的问题。使用 “<a href='https://www.tetrate.io/blog/introducing-getenvoy-extension-toolkit-for-webassembly-based-envoy-extensions/' target='_blank'>GetEnvoy 扩展</a>“仍然是扩展 Envoy 现有安装的最简单方式。<br /><a href='https://www.getenvoy.io/blog/announcing-the-getenvoy-project/'>阅读 GetEnvoy 发布博客</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.tetrate.io/wp-content/uploads/2021/03/tsb-launch-1.png"
+        },
+        "start_date": {
+          "month": "10",
+          "year": "2019"
+        },
+        "text": {
+          "headline": "TSB Beta 测试",
+          "text": "<p>Tetrate 将其旗舰产品－Tetrate Service Bridge 正式推出 beta 测试，让企业可以考验 Tetrate 的才能和专业知识，协助他们在各式各样的环境中，面对来自应用安全性、可连接性、可观察性和可靠性（App SCOR）挑战。Tetrate Service Bridge 仍然是唯一一个精密的企业级服务网格管理平台，能够在复杂、不同的部署环境中，以统一、一致的方式去保障和管理服务和传统工作负载。</p><br /><a href='https://www.tetrate.io/tetrate-service-bridge/' target='_blank'>了解更多关于 Tetrate Service Bridge</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.tetrate.io/wp-content/uploads/2021/03/varun-nist-e1615373330158.png"
+        },
+        "start_date": {
+          "month": "12",
+          "year": "2019"
+        },
+        "text": {
+          "headline": "Tetrate 和 NIST 的伙伴关系",
+          "text": "<p>Tetrate 和美国国家标准与技术研究院（NIST）开展了合作关系，创立了网务网格的安全性标准。这次合作是跨界的一次难得合作，（NIST－安全性标准专家和 Tetrate－服务网格专家），两方携手为想实施服务网格的人定下标准，这次合作最终得出了：<ul><li>两篇 NIST 特刊文章</li><li>下一代访问控制（NGAC）－首先实施在 Tetrate Service Bridge，这是验证和授权框架的下一代。NGAC 是由 NIST 的 David Ferraiolo 所创立，成为基于属性存取控制的一个较好方案。</li></ul></p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.tetrate.io/wp-content/uploads/2021/03/identity-management-e1615372780536.png"
+        },
+        "start_date": {
+          "month": "1",
+          "year": "2020"
+        },
+        "text": {
+          "headline": "第一届 Tetrate-NIST 工作坊与研讨会",
+          "text": "<p>这场研讨会主题为 “多重云下的身份管理及访问制控“，有非常多人亲身到来参与，以致门票火速售罄，需要同时开办线上活动。线上活动也是空前盛况，吸引了另外 200 人参与，证明多重云对组织是一件多么困扰与持续的问题；也是对我们重视分散式系统安全性的一种认可。</p><br /><a href='https://www.nist.gov/news-events/events/2020/01/identity-management-access-control-multiclouds-workshop-and-conference'>观看活动回放</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.tetrate.io/wp-content/uploads/2021/03/24a.png"
+        },
+        "start_date": {
+          "month": 5,
+          "year": "2020"
+        },
+        "text": {
+          "headline": "Zack 与 NIST 共同撰写微服务安全性标准：特刊 800-24A",
+          "text": "<p>由 Ramaswamy Chandramouli（NIST）和 Zack Butcher（Tetrate）共同撰写</p><p><a href='https://csrc.nist.gov/publications/detail/sp/800-204a/final' target='_blank'>特刊 800-204a</a>――发挥了服务网格的独特潜能，为微服务提供了基础安全性的最佳做法，更重要的是，这是首要、由政府发表的，有关微服务部署的安全性标准。这是关于〝使用网格时的微服务安全性＂，而非〝提供给微服务的服务网格安全性＂。</p><br /><a href='https://csrc.nist.gov/publications/detail/sp/800-204a/final'>阅读特刊文章</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.youtube.com/watch?v=3_V6JvF0hXw"
+        },
+        "start_date": {
+          "month": 5,
+          "year": "2020"
+        },
+        "text": {
+          "headline": "庆祝 Istio 发布三年",
+          "text": "<p>终于三岁了</p><p>Tetrate 为了庆祝这个令人自豪的里程碑，聚集了 Istio 的创造者和维护者，拍摄了一系列的影片，谈到各人在 Istio 的旅程和他们对项目未来的期许，也向想加入贡献 Istio 的人给了实际的建议。</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.tetrate.io/wp-content/uploads/2021/03/DevSecOps-and-ZTA-e1615372754449.png"
+        },
+        "start_date": {
+          "month": 1,
+          "year": "2021"
+        },
+        "text": {
+          "headline": "第二届 Tetrate-NIST 年度研讨会",
+          "text": "<p>鉴于我们第一次研讨会的空前成功，这次年度研讨会是集中在 “多重云环境下的 DevSecOps 和零信任架构（ZTA）“ 这个主题。这次活动吸引了超过 1000 人参与，再次证明，在多租户和多重云的环境中，组织需要认可与授权。（Tetrate Service Bridge 目前是提供零信任架构的唯一平台）</p><br /><a href='https://www.nist.gov/news-events/events/2021/01/devsecops-and-zero-trust-architecture-zta-multi-cloud-environments'>观看活动回放</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.tetrate.io/wp-content/uploads/2021/03/24b.png"
+        },
+        "start_date": {
+          "month": 1,
+          "year": "2021"
+        },
+        "text": {
+          "headline": "Zack 与 NIST 共同撰写微服务安全性标准：特刊 800-24B",
+          "text": "<p>由 Ramaswamy Chandramouli（NIST）、Zack Butcher（Tetrate）和 Aradhna Chetal（TIAA）共同撰写</p><p><a href='https://csrc.nist.gov/publications/detail/sp/800-204b/draft' target='_blank'>特刊 800-204b</a>－描述了网格如何从应用上卸载 authn/z 到网格上。</p><br /><a href='https://csrc.nist.gov/publications/detail/sp/800-204b/draft'>阅读特刊文章</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.tetrate.io/wp-content/uploads/2021/03/getistio-launch-v2.png"
+        },
+        "start_date": {
+          "month": "2",
+          "year": "2021"
+        },
+        "text": {
+          "headline": "GetIstio 正式发布",
+          "text": "<p>Tetrate 正式发布全新的开源项目，为用户提供最便捷的方式去安装和升级 Istio。GetIstio 提供了经审查的上游 Istio 分布－Istio 强硬的印象加上持续的支持，让安装、管理和升级变得轻松。</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.tetrate.io/wp-content/uploads/2021/03/Series-B-Investors-Tetrate.png"
+        },
+        "start_date": {
+          "month": "3",
+          "year": "2021"
+        },
+        "text": {
+          "headline": "B 轮",
+          "text": "<p>Tetrate 共在 B 轮融资筹得四千万美元，由 <a href='https://sapphireventures.com/' target='_blank'>Sapphire Ventures</a> 带领其他投资者，包括, <a href='https://www.scalevp.com/' target='_blank'>Scale Venture Partners</a> 和 <a href='https://nttvc.com/' target='_blank'>NTTVC</a>，还有现存投资者，<a href='www.delltechcapital.com' target='_blank'>戴尔科技资本</a>, <a href='www.intelcapital.com' target='_blank'>英特尔资本</a>, <a href='https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2F8vc.com&esheet=51953871&newsitemid=20190313005213&lan=en-US&anchor=8VC&index=3&md5=7a8ee558de22296c3c975a0b8ca03c5f' target='_blank'>8VC</a>，还有<a href='https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fsamsungnext.com&esheet=51953871&newsitemid=20190313005213&lan=en-US&anchor=Samsung+NEXT&index=6&md5=f5bfec71580bb455887d46463ebc80fd' target='_blank'>三星 NEXT</a> 在此轮中投资。我们的旅途才刚刚开始！</p><br /><a target='_self' href='#investors'>投资者如何看待我们</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.tetrate.io/wp-content/uploads/2021/04/tsb-ga-launch.gif"
+        },
+        "start_date": {
+          "month": "4",
+          "year": "2021"
+        },
+        "text": {
+          "headline": "Tetrate Service Bridge 1.0 正式发布",
+          "text": "<p>Tetrate 致力于简化复杂的应用联网，为应用开发者和运营者带来便利。而这一天正竖起了我们路上的一块重要里程碑，就是我们旗舰产品，Tetrate Service Bridge 的正式公开发布。</p><br /><a href='https://www.tetrate.io/blog/tetrate-service-bridge-general-availability/'>阅读发布博客</a>"
+        }
+      }
+    ]
+  }
+  
+  
+  
+  
